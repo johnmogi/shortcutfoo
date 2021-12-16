@@ -1,5 +1,3 @@
-hi
-
 Beginner Text Navigation:
 k Move up one line
 j Move down one line
